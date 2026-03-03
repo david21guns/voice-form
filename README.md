@@ -2,8 +2,6 @@
 
 **VoceForm** es un asistente de voz basado en Inteligencia Artificial diseñado para simplificar, agilizar y humanizar el proceso de admisión hospitalaria, con un enfoque especial en pacientes adultos mayores.
 
-[Image of AI healthcare voice assistant architecture diagram]
-
 Este sistema elimina las barreras tecnológicas para los pacientes al permitirles describir su situación clínica, síntomas e historial médico utilizando lenguaje natural hablado. VoceForm captura el audio, lo transcribe de manera automática y utiliza técnicas avanzadas de Procesamiento del Lenguaje Natural (PLN) para estructurar la información directamente en los campos de un expediente clínico electrónico.
 
 ## ✨ Características Principales
@@ -15,8 +13,6 @@ Este sistema elimina las barreras tecnológicas para los pacientes al permitirle
   * 🤒 **Motivo de consulta y síntomas**
   * 💊 **Medicamentos activos y dosis**
   * 📋 **Antecedentes (alergias, cirugías, enfermedades crónicas)**
-
-[Image of NLP Medical Named Entity Recognition process]
 
 ## ⚙️ Arquitectura y Flujo de Trabajo
 
